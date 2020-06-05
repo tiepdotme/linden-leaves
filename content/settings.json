@@ -1,22 +1,22 @@
 {
-  "store_id": 1107,
-  "name": "Linden Leaves",
   "domain": "linden-leaves.netlify.app",
-  "short_name": "Linden Leaves",
-  "description": "Loja Linden Leaves",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#259dab",
   "theme": {
     "bootswatch": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-linden.png",
+  "name": "Linden Leaves",
+  "short_name": "Linden Leaves",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/minilogo-linden.jpg",
+  "favicon": "/img/uploads/favicon.jpg",
+  "country_code": "BR",
+  "secondary_color": "#badfbe",
+  "icon": "/img/uploads/logo-linden.png",
+  "store_id": 1107,
+  "description": "Considerada A Melhor Marca de Beleza da Nova Zelândia, temos muito orgulho em criar produtos eficazes, belos e delicados, que nutrem a pele e  acalmam a alma, podendo ser consumidos sem preocupações. Nosso propósito é promover a beleza e o bem-estar diário de forma saudável!",
+  "large_icon": "/img/uploads/logo-linden.png"
 }
