@@ -7,28 +7,72 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
+          "img": "/img/uploads/lindenleaves-diadosnamorados-bannersite_final-2.png",
+          "link": "",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/ly_banner_miraculous_v1-5.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
+        },
+        {
+          "start": "2020-06-05T22:40:22.809Z",
+          "end": "2020-06-05T22:40:22.934Z",
+          "img": "/img/uploads/ly_banner_premios-nz_v2-1.png"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-tarja.png"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/ly_banner_natrue_v1.png"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ly_banner_rosto_v2.png"
+        },
+        {
+          "img": "/img/uploads/ly_banner_corpo_v1.png"
+        },
+        {
+          "img": "/img/uploads/ly_banner_maos_v1.png"
+        }
+      ]
+    },
+    {
+      "type": "custom-html",
+      "html": "<p style=\" text-align: center;  font-size: 33px;\">PRODUTOS PREMIADOS</p>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "offers"
+    },
+    {
+      "type": "custom-html",
+      "html": "<p style=\" text-align: center;  font-size: 33px;\">Prêmios Internacionais</p>"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/selo-premiacao.png"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'lindenleavesbrasil',\n            'container': \"#instagram-feed\",\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 3,\n            'items_per_row': 3,\n            'margin': 1 \n        });\n    })();\n</script>"
     }
   ]
 }
