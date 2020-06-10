@@ -1,4 +1,5 @@
 {
+  "store_id": 1107,
   "domain": "linden-leaves.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#259dab",
@@ -16,7 +17,6 @@
   "country_code": "BR",
   "secondary_color": "#badfbe",
   "icon": "/img/uploads/logo-linden.png",
-  "store_id": 1107,
   "description": "Considerada A Melhor Marca de Beleza da Nova Zelândia, temos muito orgulho em criar produtos eficazes, belos e delicados, que nutrem a pele e  acalmam a alma, podendo ser consumidos sem preocupações. Nosso propósito é promover a beleza e o bem-estar diário de forma saudável!",
   "large_icon": "/img/uploads/logo-linden.png"
 }
