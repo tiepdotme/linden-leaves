@@ -1,1 +1,66 @@
 // Add your custom CSS here.
+// desktop acima de 14 polegadas
+@media  screen and (min-width: 1368px) {
+
+}
+
+//desktop normal size
+@media  screen and (min-width: 998px) and (max-width: 1367px) {
+  //slider full
+  .banner-slider {
+    max-width: 100%;
+  }
+}
+// apenas tablet
+@media screen and (min-width: 481px) and (max-width: 997px) {
+
+}
+// apenas mobile
+@media screen and (max-width: 480px) {
+
+}
+.header__toggler svg, .header__search svg, #user-button svg, #cart-button svg {
+  color: #000;
+}
+#search-form {
+  border-bottom: 1px solid #000;
+}
+.header__buttons .btn .badge {
+    top: 22px;
+    right: 15px;
+}
+#cart-count {
+  background: transparent;
+  color: #000;
+}
+#cart-button img {
+  margin-bottom: .37rem
+}
+.header {
+  background: #fff;
+  border: none;
+  box-shadow: none;
+}
+.top-bar {
+  background: #000;
+  color: #fff;
+}
+.top-bar__nav a {
+  color: #fff;
+}
+.header__nav a {
+  color: #6b6b6b;
+  font-size: 18px;
+  padding: 22px 12px 23px;
+}
+.footer__title {
+  font-size: 20px;
+  color: #161616;
+}
+footer a {
+  color: #161616;
+}
+// font style
+body {
+  font-family: 'Open Sans', sans-serif;
+}
