@@ -61,6 +61,9 @@ footer a {
   color: #161616;
 }
 // font style
-body {
+body, a, p, h1, h2, h3, h4, h5, h6, small, em, s, b, strong, li {
   font-family: 'Open Sans', sans-serif;
+}
+.product-card__buy.fade {
+  opacity: 1 !important;
 }
