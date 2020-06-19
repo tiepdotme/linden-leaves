@@ -24,6 +24,11 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/logo_natrue.jpg",
+      "alt": "Nature ",
+      "link": "https://lindenleaves.com/our-story/"
     }
   ],
   "payment_methods": {
