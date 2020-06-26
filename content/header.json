@@ -6,15 +6,23 @@
   "contacts_stripe": {
     "pages": [
       {
+        "title": "Torne-se um revendedor",
+        "link": "/pages/contato"
+      },
+      {
         "title": "Blog",
         "link": "/pages/blog"
       },
       {
         "title": "Contato",
         "link": "/pages/contato"
+      },
+      {
+        "title": "Nossa história",
+        "link": "/pages/contato"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {

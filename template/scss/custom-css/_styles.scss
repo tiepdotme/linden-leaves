@@ -42,11 +42,13 @@
   box-shadow: none;
 }
 .top-bar {
-  background: #000;
+  background: #0c2340;
   color: #fff;
+  font-weight: 400;
 }
 .top-bar__nav a {
   color: #fff;
+  font-weight: 400;
 }
 .header__nav a {
   color: #6b6b6b;
@@ -66,4 +68,16 @@ body, a, p, h1, h2, h3, h4, h5, h6, small, em, s, b, strong, li {
 }
 .product-card__buy.fade {
   opacity: 1 !important;
+}
+.top-bar .row {
+  display: flex;
+  flex-direction: row
+}
+.top-bar .row .col {
+  order: 2;
+  display: flex;
+  justify-content: end;
+}
+.top-bar .row .col-4:last-child {
+  order: 1;
 }

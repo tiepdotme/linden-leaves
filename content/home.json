@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/lindenleaves-diadosnamorados-bannersite_final-2.png",
+          "img": "/img/uploads/banner-site-lindenleaves-1.png",
           "link": "",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/ly_banner_miraculous_v1-5.png",
+          "img": "/img/uploads/banner-site-lindenleaves-2.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
@@ -22,17 +22,14 @@
         {
           "start": "2020-06-05T22:40:22.809Z",
           "end": "2020-06-05T22:40:22.934Z",
-          "img": "/img/uploads/ly_banner_premios-nz_v2-1.png"
+          "img": "/img/uploads/banner-site-lindenleaves-3.png",
+          "alt": "Banner sample two"
         }
       ]
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-tarja.png"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ly_banner_natrue_v1.png"
     },
     {
       "type": "collection-shelf",
@@ -43,15 +40,27 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ly_banner_rosto_v2.png"
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-_1.png"
         },
         {
-          "img": "/img/uploads/ly_banner_corpo_v1.png"
-        },
-        {
-          "img": "/img/uploads/ly_banner_maos_v1.png"
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-_2.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-.png"
+        },
+        {
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-copy-4.png"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/minibanner-site-lindenleaves-2-copy.png"
     },
     {
       "type": "custom-html",

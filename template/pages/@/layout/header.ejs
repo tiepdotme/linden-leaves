@@ -67,7 +67,6 @@ if (header.categories_list) {
                 <a href="<%= link %>"><%= title %></a>
               <% }) %>
             <% } %>
-            <span style="color: #fff"> | </span>
           </nav>
           <% if (header.contacts_stripe.phone_wpp) { %>
             <% if (contacts.whatsapp) { %>
@@ -252,18 +251,18 @@ if (header.categories_list) {
         </div>
       <% } %>
 
+      <% if (categories && categories.length) { %>
+        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
+          <nav class="header__nav<%= true ? ' header__nav--full' : '' %>">
+            <% categories.forEach(({ slug, name }) => { %>
+              <a href="javascript:;" onclick="toggleSidenav('<%= slug %>')">
+                <%= ` ${name} ` %>
+              </a>
+            <% }) %>
+          </nav>
+        </div>
+      <% } %>
+
     </div>
   </div>
 </header>
-
-<% if (categories && categories.length) { %>
-  <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
-    <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
-      <% categories.forEach(({ slug, name }) => { %>
-        <a href="javascript:;" onclick="toggleSidenav('<%= slug %>')">
-          <%= ` ${name} ` %>
-        </a>
-      <% }) %>
-    </nav>
-  </div>
-<% } %>
