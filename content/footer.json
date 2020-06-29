@@ -26,10 +26,14 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/certificado-produto-natural-mascara-facial-umectante-com-cha-branco-organico-e-manuka_1.png",
+      "src": "/img/uploads/logo-natrue-2-.png",
       "alt": "Nature ",
       "link": "https://www.natrue.org/our-standard/natrue-certified-world/"
-    }
+    },
+    {
+      "link": "<div id=\"armored_website\">     <param id=\"aw_preload\" value=\"true\" />     <param id=\"aw_use_cdn\" value=\"true\" /> </div>  <script type=\"text/javascript\" src=\"//cdn.siteblindado.com/aw.js\"></script>"
+    },
+    {}
   ],
   "payment_methods": {
     "bb": true,
