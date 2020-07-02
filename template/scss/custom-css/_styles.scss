@@ -1,14 +1,47 @@
 // Add your custom CSS here.
 // desktop acima de 14 polegadas
 @media  screen and (min-width: 1368px) {
-
+  .page--home #banner-primario {
+    padding-right: 5px;
+  }
+  .page--home #banner-secundario {
+    padding-left: 5px;
+  }
+  #menu-novo {
+    display: flex !important;
+    align-items: center;
+  }
+  #coluna-logo {
+    display: flex;
+    justify-content: center;
+    & img {
+      max-height: 100px
+    }
+  }
 }
 
 //desktop normal size
-@media  screen and (min-width: 998px) and (max-width: 1367px) {
+@media  screen and (min-width: 992px) and (max-width: 1367px) {
   //slider full
   .banner-slider {
     max-width: 100%;
+  }
+  .page--home #banner-primario {
+    padding-right: 5px;
+  }
+  .page--home #banner-secundario {
+    padding-left: 5px;
+  }
+  #menu-novo {
+    display: flex !important;
+    align-items: center;
+  }
+  #coluna-logo {
+    display: flex;
+    justify-content: center;
+    & img {
+      max-height: 100px
+    }
   }
 }
 // apenas tablet
@@ -20,10 +53,7 @@
 
 }
 .header__toggler svg, .header__search svg, #user-button svg, #cart-button svg {
-  color: #000;
-}
-#search-form {
-  border-bottom: 1px solid #000;
+  color: #0c2340;
 }
 .header__buttons .btn .badge {
     top: 22px;
@@ -38,8 +68,9 @@
 }
 .header {
   background: #fff;
-  border: none;
+  border-bottom: 1px solid #eee;
   box-shadow: none;
+
 }
 .top-bar {
   background: #0c2340;
@@ -50,11 +81,22 @@
   color: #fff;
   font-weight: 400;
 }
-.header__nav a {
-  color: #6b6b6b;
-  font-size: 18px;
-  padding: 22px 12px 23px;
+.header__nav {
+  & a {
+  color: #0c2340;
+  font-size: 16px;
+  padding: 16px;
+  }
+  & a:hover {
+    color: #e5cdcf;
+    background: #fff;
+  }
 }
+#search-input::placeholder {
+  color: #0c2340;
+  font-size: 0px;
+}
+
 .footer__title {
   font-size: 20px;
   color: #161616;
@@ -78,6 +120,47 @@ body, a, p, h1, h2, h3, h4, h5, h6, small, em, s, b, strong, li {
   display: flex;
   justify-content: end;
 }
-.top-bar .row .col-4:last-child {
+.top-bar .row .col-auto {
   order: 1;
+}
+.footer {
+  background: #f2f2f2;
+  border-top: 0
+}
+#search-input {
+  border: 0;
+}
+.page--home {
+  & #banner-primario {
+    & .banner:first-child {
+      padding-bottom: 5px
+    }
+    & .banner:last-child {
+      padding-top: 5px
+    }
+  }
+  & #banner-secundario {
+    & .banner:first-child {
+      padding-bottom: 5px
+    }
+    & .banner:last-child {
+      padding-top: 5px
+    }
+  }
+  & .banners-grid {
+    margin-bottom: 5px;
+  }
+  & .banners-grid + .responsive-baner {
+    margin-top: 10px;
+  }
+}
+
+.footer__title {
+  color: #0c2340 !important
+}
+.footer a, p, address {
+  color: #777
+}
+#search-input::placeholder {
+  display: none;
 }

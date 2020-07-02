@@ -128,7 +128,7 @@ if (header.categories_list) {
         </button>
       </div>
 
-      <div class="col col-lg-auto pl-1 pl-md-2 pl-lg-3">
+      <div id="coluna-logo" class="col col-lg-auto pl-1 pl-md-2 pl-lg-3">
         <a href="/">
           <% if (logo && logo.url) { %>
             <img
@@ -143,7 +143,7 @@ if (header.categories_list) {
         </a>
       </div>
 
-      <div class="order-lg-last col-auto p-0">
+      <div class="order-lg-last col-auto p-0" id="headButtons">
         <div
           class="header__buttons"
           role="group"
@@ -252,7 +252,7 @@ if (header.categories_list) {
       <% } %>
 
       <% if (categories && categories.length) { %>
-        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
+        <div id="menu-novo" class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %>">
           <nav class="header__nav<%= true ? ' header__nav--full' : '' %>">
             <% categories.forEach(({ slug, name }) => { %>
               <a href="javascript:;" onclick="toggleSidenav('<%= slug %>')">

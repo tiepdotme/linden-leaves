@@ -7,23 +7,23 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-site-lindenleaves-1.png",
+          "img": "/img/uploads/banner-site-lindenleaves-1-1-.png",
           "link": "",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "end": ""
         },
         {
-          "img": "/img/uploads/banner-site-lindenleaves-2.png",
+          "img": "/img/uploads/banner-site-lindenleaves-2-1-.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
         },
         {
-          "start": "2020-06-05T22:40:22.809Z",
-          "end": "2020-06-05T22:40:22.934Z",
-          "img": "/img/uploads/banner-site-lindenleaves-3.png",
-          "alt": "Banner sample two"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-site-lindenleaves-3-1-.png",
+          "alt": "Banner sample"
         }
       ]
     },
@@ -40,44 +40,27 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-_1.png"
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-_1-1-1-.png"
         },
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-_2.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-.png"
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-_2-1-1-.png"
         },
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-copy-4.png"
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-3-.png"
+        },
+        {
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-copy-3-1-.png"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/minibanner-site-lindenleaves-2-copy.png"
-    },
-    {
-      "type": "custom-html",
-      "html": "<p style=\" text-align: center;  font-size: 33px;\">PRODUTOS PREMIADOS</p>"
+      "img": "/img/uploads/minibanner-site-lindenleaves-2-copy-1-.png"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "offers"
-    },
-    {
-      "type": "custom-html",
-      "html": "<p style=\" text-align: center;  font-size: 33px;\">Prêmios Internacionais</p>"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/selo-premiacao.png"
     },
     {
       "type": "custom-html",

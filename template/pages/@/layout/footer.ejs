@@ -111,7 +111,6 @@ const networksWithColors = [
               <% (_.cms('pages') || []).forEach(slug => { %>
                 <% const { title } = _.cms(`pages/${slug}`) %>
                 <li>
-                  <i class="fas fa-angle-right"></i>
                   <a href="/pages/<%= slug %>">
                     <%= title %>
                   </a>
