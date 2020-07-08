@@ -7,16 +7,16 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-site-lindenleaves-2-1-.png",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-site-lindenleaves-3-1-.png",
           "alt": "Banner sample"
+        },
+        {
+          "img": "/img/uploads/banner-site-lindenleaves-2-1-.png",
+          "alt": "Banner sample two",
+          "start": "",
+          "end": ""
         },
         {
           "img": "/img/uploads/banner-site-lindenleaves-1-1-.png",
