@@ -40,7 +40,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-_1-1-1-.png"
+          "img": "/img/uploads/minibanner-site-lindenleaves-1-_1-1-1-.png",
+          "link": "https://linden-leaves.netlify.app/maos"
         },
         {
           "img": "/img/uploads/minibanner-site-lindenleaves-1-_2-1-1-.png",
