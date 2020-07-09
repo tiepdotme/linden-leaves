@@ -170,7 +170,8 @@ if (header.categories_list) {
             href="/app/#/account/"
             title="<%= _.dictionary('myAccount') %>"
           >
-            <i class="fas fa-user"></i>
+          <span class="d-md-none d-md-inline">Minha conta</span>
+          <span class="d-none"><i class="fas fa-user"></i></span>
           </a>
           <a
             id="cart-button"
@@ -202,7 +203,7 @@ if (header.categories_list) {
         const searchColSize = !isCategoriesNavFull && categories.length ? '-3' : ''
         %>
         <div
-          class="d-none d-lg-block col-12 col-lg<%= searchColSize %> collapse show"
+          class="d-lg-block col-12 col-lg<%= searchColSize %> show"
           id="search-bar"
         >
           <form

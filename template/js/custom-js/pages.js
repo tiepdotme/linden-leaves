@@ -8,3 +8,13 @@ if (window.innerWidth > 992) {
   menuDesk.append(searchBarDesk)
   menuDesk.append(buttonsDesk)
 }
+if (window.innerWidth < 468) {
+  const searchFormMobile = document.getElementById('search-bar')
+  const buttonSearchOpen = document.getElementById('mobile-search-btn')
+  const menuMobile = document.getElementById('accordion-menu')
+  const userMobile = document.getElementById('user-button')
+  buttonSearchOpen.remove()
+  searchFormMobile.classList.remove('col-12')
+  menuMobile.before(searchFormMobile)
+  menuMobile.after(userMobile)
+}
