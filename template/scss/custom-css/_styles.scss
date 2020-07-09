@@ -157,7 +157,7 @@ body, a, p, h1, h2, h3, h4, h5, h6, small, em, s, b, strong, li {
   border-bottom: 1px solid #000;
 }
 #search-input {
-  border: 0;
+  border: 0 !important;
   border-radius: 0;
 }
 .page--home {
