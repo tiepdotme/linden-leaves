@@ -11,7 +11,7 @@
       },
       {
         "title": "Blog",
-        "link": "/pages/blog"
+        "link": ""
       },
       {
         "title": "Contato",
@@ -19,7 +19,7 @@
       },
       {
         "title": "Nossa história",
-        "link": "/pages/contato"
+        "link": ""
       }
     ],
     "phone_wpp": false,

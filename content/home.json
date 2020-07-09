@@ -64,7 +64,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "offers"
+      "sort": "sales",
+      "title": "Produtos Prêmiados"
     },
     {
       "type": "custom-html",
