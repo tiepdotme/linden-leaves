@@ -153,11 +153,12 @@ body, a, p, h1, h2, h3, h4, h5, h6, small, em, s, b, strong, li {
   background: #f2f2f2;
   border-top: 0
 }
+#search-form {
+  border-bottom: 1px solid #000;
+}
 #search-input {
   border: 0;
-  border-bottom: 1px solid #000;
   border-radius: 0;
-
 }
 .page--home {
   & #banner-primario {
