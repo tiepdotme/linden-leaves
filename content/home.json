@@ -65,15 +65,6 @@
       "img": "/img/uploads/minibanner-site-lindenleaves-2-copy-1-.png"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "highest_price",
-      "title": "Mais Vendidos",
-      "collection_id": "5f08a29a14ff772fde7efef0",
-      "headless": true,
-      "link": "Mais Vendidos"
-    },
-    {
       "type": "custom-html",
       "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'lindenleavesbrasil',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 3,\n            'items_per_row': 3,\n            'margin': 1 \n        });\n    })();\n</script>"
     }
