@@ -69,7 +69,9 @@
       "shuffle": true,
       "sort": "sales",
       "title": "Mais Vendidos",
-      "collection_id": "5f08a29a14ff772fde7efef0"
+      "collection_id": "5f08a29a14ff772fde7efef0",
+      "headless": true,
+      "link": "Mais Vendidos"
     },
     {
       "type": "custom-html",
