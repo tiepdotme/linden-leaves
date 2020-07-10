@@ -1,12 +1,12 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": "Mais Vendidos"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "document-banner",
