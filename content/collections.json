@@ -5,19 +5,19 @@
       "title": "Mais Vendidos"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "document-banner",
-      "enabled": true
-    },
-    {
       "type": "collection-retail",
       "enabled": true
     },
     {
       "type": "document-description",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "document-banner",
       "enabled": true
     }
   ]
