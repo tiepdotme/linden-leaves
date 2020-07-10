@@ -1,11 +1,12 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "page-title",
+      "title": "Creme Para As Mãos"
     },
     {
-      "type": "page-title"
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "document-banner",
