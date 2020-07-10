@@ -65,7 +65,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "sales",
-      "title": "Produtos Prêmiados"
+      "title": "Mais Vendidos",
+      "collection_id": "5f08a29a14ff772fde7efef0"
     },
     {
       "type": "custom-html",
