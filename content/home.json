@@ -10,7 +10,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-site-lindenleaves-3-1-.png",
-          "alt": "Banner sample"
+          "alt": "Banner sample",
+          "mobile_img": "/img/uploads/banner-namorado-mobile.jpg"
         },
         {
           "img": "/img/uploads/banner-site-lindenleaves-2-1-.png",
