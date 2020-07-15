@@ -6,10 +6,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Torne-se um revendedor",
-        "link": "/pages/contato"
-      },
-      {
         "title": "Blog",
         "link": ""
       },
