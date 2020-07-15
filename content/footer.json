@@ -31,8 +31,8 @@
       "link": "https://www.natrue.org/our-standard/natrue-certified-world/"
     },
     {
-      "link": "<div id=\"armored_website\">     <param id=\"aw_preload\" value=\"true\" />     <param id=\"aw_use_cdn\" value=\"true\" /> </div>  <script type=\"text/javascript\" src=\"//cdn.siteblindado.com/aw.js\"></script>",
-      "alt": "<div id=\"armored_website\">     <param id=\"aw_preload\" value=\"true\" />     <param id=\"aw_use_cdn\" value=\"true\" /> </div>  <script type=\"text/javascript\" src=\"//cdn.siteblindado.com/aw.js\"></script>"
+      "link": "",
+      "alt": ""
     },
     {}
   ],
