@@ -48,6 +48,10 @@
       "title": "Mais Vendidos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
