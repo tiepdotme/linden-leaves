@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "aromaterapia",
+    "premiados",
+    "linhas-e-rugas",
+    "linha-completa",
+    "kits"
+  ],
   "phone_wpp": true,
   "socials": true
 }
