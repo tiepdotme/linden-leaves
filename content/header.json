@@ -24,11 +24,11 @@
   "categories_list": {
     "featured": [
       "/aromaterapia?AROMATERAPIA",
-      "/premiados?PREMIADOS",
-      "/rosto?LINHA FACIAL",
-      "/linha-corporal?LINHA CORPORAL",
-      "/linha-completa?LINHA COMPLETA",
-      "/kits?KITS"
+      "/premiados?Prêmiados",
+      "/corpo?CORPO",
+      "/maos?MÃOS",
+      "/linhas-e-rugas?LINHAS E RUGAS",
+      "/manchas?MANCHAS"
     ],
     "random": 0,
     "full_width": true
