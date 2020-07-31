@@ -8,7 +8,7 @@ if (window.innerWidth > 992) {
   menuDesk.append(searchBarDesk)
   menuDesk.append(buttonsDesk)
 }
-if (window.innerWidth < 468) {
+if (window.innerWidth < 991) {
   const searchFormMobile = document.getElementById('search-bar')
   const buttonSearchOpen = document.getElementById('mobile-search-btn')
   const menuMobile = document.getElementById('accordion-menu')
