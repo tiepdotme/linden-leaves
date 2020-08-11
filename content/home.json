@@ -7,11 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "",
+          "img": "/img/uploads/ll-banner1fgrande.jpg",
+          "link": "",
+          "alt": "Headset banner",
+          "start": "2020-04-11T05:54:06.750Z",
           "end": "",
-          "img": "/img/uploads/banner-linden-leaves-linha-facial-livre-de-crueldade-animal-certificado-natrue.png",
-          "alt": "Banner sample",
-          "mobile_img": "/img/uploads/ll-banner2novotamanho-1-.jpg"
+          "mobile_img": "/img/uploads/ll-banner1fnovotamanho.jpg"
         },
         {
           "img": "/img/uploads/banner3grande.jpg",
@@ -21,12 +22,11 @@
           "mobile_img": "/img/uploads/ll-banner3novotamanho.jpg"
         },
         {
-          "img": "/img/uploads/ll-banner1fgrande.jpg",
-          "link": "",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
+          "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/ll-banner1fnovotamanho.jpg"
+          "img": "/img/uploads/banner-linden-leaves-linha-facial-livre-de-crueldade-animal-certificado-natrue.png",
+          "alt": "Banner sample",
+          "mobile_img": "/img/uploads/ll-banner2novotamanho-1-.jpg"
         },
         {
           "start": "2020-07-14T15:32:05.742Z",
