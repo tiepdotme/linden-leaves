@@ -18,7 +18,7 @@
         "link": "https://www.lindenleaves.com.br/pagina/a-marca"
       }
     ],
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
