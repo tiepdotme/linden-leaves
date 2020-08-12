@@ -27,8 +27,7 @@
       "/premiados?Prêmiados",
       "/rosto?LINHA FACIAL",
       "/linha-corporal?LINHA CORPORAL",
-      "/linha-completa?LINHA COMPLETA",
-      "/kits?KITS"
+      "/linha-completa?LINHA COMPLETA"
     ],
     "random": 0,
     "full_width": true
