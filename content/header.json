@@ -25,10 +25,10 @@
     "featured": [
       "/aromaterapia?AROMATERAPIA",
       "/premiados?Prêmiados",
-      "/corpo?CORPO",
-      "/maos?MÃOS",
-      "/linhas-e-rugas?LINHAS E RUGAS",
-      "/manchas?MANCHAS"
+      "/rosto?LINHA FACIAL",
+      "/linha-corporal?LINHA CORPORAL",
+      "/linha-completa?LINHA COMPLETA",
+      "/kits?KITS"
     ],
     "random": 0,
     "full_width": true
