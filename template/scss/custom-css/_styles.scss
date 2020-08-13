@@ -247,3 +247,7 @@ body, a, p, h1, h2, h3, h4, h5, h6, small, em, s, b, strong, li {
 #c-5eda8ffc14ff772fde77e166, #c-5eda8ffe14ff772fde77e16a, #c-5eda8ffd14ff772fde77e168, #c-5eda8fff14ff772fde77e16c, #c-5eda900014ff772fde77e16e, #c-5eda900214ff772fde77e172, #c-5eda900414ff772fde77e178, #c-5eda900514ff772fde77e17a, #c-5eda900714ff772fde77e17e {
   display: none;
 }
+// esconder pessoa jurídica
+#account-form-type-j, #account-form-type-j + label {
+display: none !important;
+} 
