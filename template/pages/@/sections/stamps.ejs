@@ -1,11 +1,11 @@
 <% if (Array.isArray(opt.stamps)) { %>
   <ul class="stamps">
     <li>
-      < div id="armored_website" >
-        < param id="aw_preload" value="true" / >
-        < param id="aw_use_cdn" value="true" />
-      < /div>
-      < script type="text/javascript" src="//cdn.siteblindado.com/aw.js">
+      <div id="armored_website">
+        <param id="aw_preload" value="true"/>
+        <param id="aw_use_cdn" value="true"/>
+      </div>
+      <script async defer type="text/javascript" src="//cdn.siteblindado.com/aw.js"></script>
     </li>
     <% opt.stamps.forEach(({ src, alt, link }) => { %>
       <% if (link) { %>
