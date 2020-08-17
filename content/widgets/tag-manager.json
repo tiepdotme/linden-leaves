@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "GTM-W9355CW",
+    "gtmContainerId": "GTM-MX6X72K",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
