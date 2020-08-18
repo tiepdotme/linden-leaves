@@ -56,26 +56,31 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-_1-1-1-.png",
-          "link": "/maos"
+          "img": "/img/uploads/creme-para-as-maos-green-verbana-100ml-linden-leaves.webp",
+          "link": "/maos",
+          "mobile_img": "/img/uploads/creme-para-as-maos-green-verbana-100ml-linden-leaves.webp"
         },
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-_2-1-1-.png",
-          "link": " hidratante-corporal"
+          "img": "/img/uploads/hidratante-corporal-linden-leaves-200ml.webp",
+          "link": " hidratante-corporal",
+          "mobile_img": "/img/uploads/hidratante-corporal-linden-leaves-200ml.webp"
         },
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-3-.png",
-          "link": "/aromaterapia"
+          "img": "/img/uploads/oleo-corporal-memories-200ml-com-rosas.webp",
+          "link": "/aromaterapia",
+          "mobile_img": "/img/uploads/oleo-corporal-memories-200ml-com-rosas.webp"
         },
         {
-          "img": "/img/uploads/minibanner-site-lindenleaves-1-copy-3-1-.png",
-          "link": "/oleo-facial-miraculous-com-cha-branco-e-oleo-de-rosa-mosqueta"
+          "img": "/img/uploads/oleo-facial-miraculous.webp",
+          "link": "/oleo-facial-miraculous-com-cha-branco-e-oleo-de-rosa-mosqueta",
+          "mobile_img": "/img/uploads/oleo-facial-miraculous.webp"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/minibanner-site-lindenleaves-2-copy-1-.png"
+      "img": "/img/uploads/oleo-corporal-pick-me-up-200ml.webp",
+      "mobile_img": "/img/uploads/oleo-corporal-pick-me-up-200ml.webp"
     },
     {
       "type": "custom-html",
