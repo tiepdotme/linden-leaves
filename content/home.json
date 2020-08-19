@@ -58,29 +58,29 @@
         {
           "img": "/img/uploads/creme-para-as-maos-green-verbana-100ml-linden-leaves.webp",
           "link": "/maos",
-          "mobile_img": "/img/uploads/creme-para-as-maos-green-verbana-100ml-linden-leaves.webp"
+          "mobile_img": "/img/uploads/minibanner-site-lindenleaves-1-_1-1-.jpg"
         },
         {
           "img": "/img/uploads/hidratante-corporal-linden-leaves-200ml.webp",
           "link": " hidratante-corporal",
-          "mobile_img": "/img/uploads/hidratante-corporal-linden-leaves-200ml.webp"
+          "mobile_img": "/img/uploads/minibanner-site-lindenleaves-1-_2.jpg"
         },
         {
           "img": "/img/uploads/oleo-corporal-memories-200ml-com-rosas.webp",
           "link": "/aromaterapia",
-          "mobile_img": "/img/uploads/oleo-corporal-memories-200ml-com-rosas.webp"
+          "mobile_img": "/img/uploads/minibanner-site-lindenleaves-1-.jpg"
         },
         {
           "img": "/img/uploads/oleo-facial-miraculous.webp",
           "link": "/oleo-facial-miraculous-com-cha-branco-e-oleo-de-rosa-mosqueta",
-          "mobile_img": "/img/uploads/oleo-facial-miraculous.webp"
+          "mobile_img": "/img/uploads/oleo-facial-miraculous-1-.jpg"
         }
       ]
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/oleo-corporal-pick-me-up-200ml.webp",
-      "mobile_img": "/img/uploads/oleo-corporal-pick-me-up-200ml.webp"
+      "mobile_img": "/img/uploads/minibanner-site-lindenleaves-2-copy.jpg"
     },
     {
       "type": "custom-html",
