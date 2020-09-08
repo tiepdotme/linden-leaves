@@ -7,7 +7,7 @@
     "pages": [
       {
         "title": "Blog",
-        "link": "http://blog.lindenleaves.com.br/"
+        "link": "/blog"
       },
       {
         "title": "Contato",
