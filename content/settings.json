@@ -1,4 +1,5 @@
 {
+  "store_id": 1107,
   "domain": "www.lindenleaves.com.br",
   "currency_symbol": "R$",
   "primary_color": "#259dab",
@@ -17,7 +18,6 @@
   "country_code": "BR",
   "secondary_color": "#badfbe",
   "icon": "/img/uploads/logo-linden-leaves-site.png",
-  "store_id": 1107,
   "description": "\nConheça nossos produtos naturais e orgânicos certificados que promovem a beleza e o bem-estar diário de forma saudável. Aproveite agora e pague em até 12x sem juros. Frete grátis e produtos com 30% OFF. ",
   "large_icon": "/img/uploads/logo-site-maior.png"
 }
